@@ -18,8 +18,8 @@ code.
 The binaries published here are licensed under the **Yuga Binary License,
 non-commercial**: free to use, redistribute unmodified and link into other
 software for non-commercial purposes. Commercial use needs Yuga's
-commercial licence (github@lsh.tech). The licence text is added with the
-first release.
+commercial licence (github@lsh.tech). The full text is in
+[LICENSE.md](LICENSE.md).
 
 Yuga's source code is licensed separately, under the GNU Affero General
 Public License v3.0 or a commercial licence; nothing here grants rights to
