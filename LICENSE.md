@@ -1,4 +1,4 @@
-# Yuga Binary License — Non-Commercial, version 1.0
+# Yuga Binary License — Non-Commercial, version 1.1
 
 Copyright (c) 2026 Lsh0x (github@lsh.tech), the author of Yuga.
 
@@ -32,7 +32,9 @@ charge under CC-BY-NC-4.0 is non-commercial use.
 1. Keep this license file and the copyright notice with every
    redistribution of the Binaries.
 2. Do not modify, decompile or reverse-engineer the Binaries, except as far
-   as applicable law expressly permits.
+   as applicable law expressly permits. Code-signing the Binaries for
+   distribution on a platform (adding or replacing the platform's signature,
+   notarizing them) is not a modification.
 3. Do not present the Binaries as your own work.
 
 ## 3. Commercial use
